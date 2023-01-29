@@ -1,10 +1,8 @@
-<!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Prit Sorathiya for academic use --->
-
 # Project: Serverless B&B
+### React JS, Node JS, JavaScript, AWS services: Cognito, Lex, Lambda Dynamo DB, GCP services: Firestore, CloudFunction, BigQuery, pub/sub, NLP, Data Studio.
 
 - _Date Created_: 2 Jun 2022
 - _Last Modification Date_: 13 Jun 2022
-- _Group repository git URL_: <https://git.cs.dal.ca/psorathiya/csci5410_group6>
 
 ## Authors
 
